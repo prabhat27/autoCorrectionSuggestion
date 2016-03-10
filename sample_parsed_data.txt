@@ -1,0 +1,6 @@
+tactics,Disposition of armed forces
+taffrail,Rail round a ship's stern. [dutch taffereel panel]
+ab,ek
+ae,hello
+abc,kya
+nfb,kaisa
